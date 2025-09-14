@@ -113,9 +113,9 @@ else:
 ```
 ### Output:
 
-<img width="539" height="752" alt="Screenshot 2025-09-14 203920" src="https://github.com/user-attachments/assets/df70ae09-b08a-4394-9c16-5b6dd1b08228" />
+<img width="635" height="750" alt="image" src="https://github.com/user-attachments/assets/ea9d1f4c-bb6d-4b8a-9d1d-70586c619566" />
 
-<img width="457" height="374" alt="Screenshot 2025-09-14 203938" src="https://github.com/user-attachments/assets/438b5562-658a-40e5-8228-e6595d671746" />
+<img width="630" height="365" alt="image" src="https://github.com/user-attachments/assets/1e64b3f7-076c-4aae-879d-1ba89e2a5a1c" />
 
 
 
