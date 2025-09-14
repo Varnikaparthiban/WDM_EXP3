@@ -113,11 +113,9 @@ else:
 ```
 ### Output:
 
-
 <img width="539" height="752" alt="Screenshot 2025-09-14 203920" src="https://github.com/user-attachments/assets/df70ae09-b08a-4394-9c16-5b6dd1b08228" />
 
-
-<img width="457" height="374" alt="Screenshot 2025-09-14 203938" src="https://github.com/user-attachments/assets/9c0f6a67-bc02-4cfa-89ba-c626266c4530" />
+<img width="457" height="374" alt="Screenshot 2025-09-14 203938" src="https://github.com/user-attachments/assets/438b5562-658a-40e5-8228-e6595d671746" />
 
 
 
@@ -151,8 +149,7 @@ visualize_patterns_line(bottom_wear_result, 'Bottom Wear')
 
 <img width="1087" height="590" alt="Screenshot 2025-09-14 204030" src="https://github.com/user-attachments/assets/fdf9e3df-4748-46de-8554-69168fe3299b" />
 
-
-<img width="1098" height="612" alt="image" src="https://github.com/user-attachments/assets/6d377f09-1070-45ba-af67-e0ef24cb24a5" />
+<img width="1123" height="613" alt="image" src="https://github.com/user-attachments/assets/af9b8f37-db70-4d6e-86e9-715632a7d86a" />
 
 
 ### Result:
